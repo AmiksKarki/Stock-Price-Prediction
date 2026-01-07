@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model checkpoints and outputs
+*.pth
+*.pt
+*.h5
+*.pkl
+*.joblib
+models/
+checkpoints/
+
+# Data files (if large)
+# Uncomment if you don't want to track CSV files
+# *.csv
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Plots and diagrams output
+# diagrams/*.png
+# diagrams/*.jpg
+
+# OS specific
+Thumbs.db
+.DS_Store
