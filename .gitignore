@@ -43,10 +43,10 @@ env/
 .DS_Store
 
 # Model checkpoints and outputs
-*.pth
-*.pt
-*.h5
-*.pkl
+# *.pth
+# *.pt
+# *.h5
+# *.pkl
 *.joblib
 models/
 checkpoints/
